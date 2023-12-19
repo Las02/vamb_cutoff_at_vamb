@@ -1,0 +1,10 @@
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S6/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S7/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S8/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S13/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S14/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S15/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S16/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S17/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S18/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Oral/S19/contigs.fasta

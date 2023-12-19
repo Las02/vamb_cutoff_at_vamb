@@ -1,0 +1,1 @@
+/home/people/lasdan/lasdan/data/4.contigs.fasta.gz

@@ -1,0 +1,9 @@
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Urogenital/S0/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Urogenital/S2/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Urogenital/S3/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Urogenital/S5/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Urogenital/S6/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Urogenital/S21/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Urogenital/S22/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Urogenital/S24/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Urogenital/S25/contigs.fasta

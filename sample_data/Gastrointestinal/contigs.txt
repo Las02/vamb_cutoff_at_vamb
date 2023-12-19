@@ -1,0 +1,9 @@
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Gastrointestinal/S0/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Gastrointestinal/S1/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Gastrointestinal/S2/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Gastrointestinal/S3/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Gastrointestinal/S4/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Gastrointestinal/S5/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Gastrointestinal/S9/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Gastrointestinal/S10/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Gastrointestinal/S11/contigs.fasta

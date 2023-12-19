@@ -1,0 +1,10 @@
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S4/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S7/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S8/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S9/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S10/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S11/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S12/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S23/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S26/contigs.fasta
+/home/projects/ku_00197/data/ptracker/cache/as_mp_merged_reads_ef/Airways/S27/contigs.fasta
