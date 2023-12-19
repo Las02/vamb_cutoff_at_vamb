@@ -1,0 +1,32 @@
+# Datafiles change
+contigs: ANCw../config/contigs.txt
+sample_data: /home/people/lasdan/lasdan/contig_cutoff/config/samples2data.tsv
+config_path: /home/people/lasdan/lasdan/contig_cutoff/config/ 
+sample: A 
+times_run_vamb: 1
+# Directories
+outdir:
+vambsrc: /home/people/lasdan/lasdan/vamb_versions/vamb/src/
+# Module envs
+moduleenvs:
+  minimap2: minimap2/2.6
+  samtools: samtools/1.17
+# Options for minimap
+minimap:
+  minimap_mem: 15GB
+  minimap_ppn: 15
+# Options for vamb
+vamb:
+  avamb_mem: 15GB
+  avamb_ppn: 30
+  avamb_params: 
+  avamb_preload:
+  avamb_gpus: 0
+
+# other options - improve formatting
+index_size: 3G
+min_contig_size: 2000
+min_bin_size: 200000
+min_identity: 0.95
+min_comp: 0.9
+max_cont: 0.05

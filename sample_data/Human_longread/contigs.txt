@@ -1,0 +1,4 @@
+/home/projects/cpr_10006/projects/semi_vamb/data/human_longread/hifiasm_meta/SRR15275210.fasta
+/home/projects/cpr_10006/projects/semi_vamb/data/human_longread/hifiasm_meta/SRR15275211.fasta
+/home/projects/cpr_10006/projects/semi_vamb/data/human_longread/hifiasm_meta/SRR15275212.fasta
+/home/projects/cpr_10006/projects/semi_vamb/data/human_longread/hifiasm_meta/SRR15275213.fasta

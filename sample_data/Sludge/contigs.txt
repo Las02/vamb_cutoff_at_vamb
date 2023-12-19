@@ -1,0 +1,3 @@
+/home/projects/cpr_10006/projects/semi_vamb/data/sludge/hifiasm_meta2/1.fasta
+/home/projects/cpr_10006/projects/semi_vamb/data/sludge/hifiasm_meta2/2.fasta
+/home/projects/cpr_10006/projects/semi_vamb/data/sludge/hifiasm_meta2/3.fasta
