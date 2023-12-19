@@ -1,8 +1,10 @@
-Airways/
-A/
-Skin/
-Gastrointestinal/
-Oral/
-output/
-Urogenital/
+/Airways/
+.snakemake/
+/A/
+/benchmark/
+/Skin/
+/Gastrointestinal/
+/Oral/
+/output/
+/Urogenital/
 snakejob*

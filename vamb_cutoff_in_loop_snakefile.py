@@ -119,7 +119,7 @@ rule all:
     input:
         outdir_avamb=expand('cutoff_{vamb_cutoff}/{vamb_runs}_vamb/vae_clusters_split.tsv',vamb_runs = list(range(1, TIMES_RUN_VAMB + 1)), vamb_cutoff = vamb_cutoff_list)
 
-# Filter contigs for 2000bp and rename them to conform with the multi-split workflow 
+# Rename contigs to conform with the multi-split workflow 
 rule cat_contigs:
     input:
         contigs_list
